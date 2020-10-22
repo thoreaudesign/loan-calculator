@@ -1,2 +1,2 @@
-# loan-calculator-api
+# loan-calculator
 REST API to serve loan-calculator front end. 
